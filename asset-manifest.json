@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cloudusers2/static/css/main.3c6adafa.chunk.css",
+    "main.js": "/cloudusers2/static/js/main.b42abea6.chunk.js",
+    "main.js.map": "/cloudusers2/static/js/main.b42abea6.chunk.js.map",
+    "runtime-main.js": "/cloudusers2/static/js/runtime-main.fb4bbe69.js",
+    "runtime-main.js.map": "/cloudusers2/static/js/runtime-main.fb4bbe69.js.map",
+    "static/js/2.f22b2043.chunk.js": "/cloudusers2/static/js/2.f22b2043.chunk.js",
+    "static/js/2.f22b2043.chunk.js.map": "/cloudusers2/static/js/2.f22b2043.chunk.js.map",
+    "static/js/3.62692f89.chunk.js": "/cloudusers2/static/js/3.62692f89.chunk.js",
+    "static/js/3.62692f89.chunk.js.map": "/cloudusers2/static/js/3.62692f89.chunk.js.map",
+    "index.html": "/cloudusers2/index.html",
+    "static/css/main.3c6adafa.chunk.css.map": "/cloudusers2/static/css/main.3c6adafa.chunk.css.map",
+    "static/js/2.f22b2043.chunk.js.LICENSE.txt": "/cloudusers2/static/js/2.f22b2043.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4bbe69.js",
+    "static/js/2.f22b2043.chunk.js",
+    "static/css/main.3c6adafa.chunk.css",
+    "static/js/main.b42abea6.chunk.js"
+  ]
+}
